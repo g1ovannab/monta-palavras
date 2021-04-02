@@ -1,0 +1,41 @@
+//for (String word : wordsArray){
+                
+                // String wordSorted = sortString(word);
+                // char[] wordInChars = wordSorted.toCharArray();
+                
+                // byte count = 0;
+                
+
+
+
+                // if (wordInChars.length <= lettersInChars.length){
+                //     /*Se a quantidade de letras na palavra analisada for menor ou igual que
+                //     a quantidade de letras digitadas pelo usuário, esse conjunto de letras 
+                //     pode potencialmente formar essa palavra.*/
+
+                //     byte counterForLenght = 0;
+                //     ArrayList<Character> lettersLeft = new ArrayList<>();
+
+                //     for (char letterOfWord : wordInChars){
+
+                //         for (char letterTyped : lettersInChars){
+                            
+                //             if (letterOfWord == letterTyped){
+                //                 counterForLenght++;
+                //             } else{
+                //                 lettersLeft.add(letterTyped);
+
+                //                 letterOfWord = ' ';
+                //                 letterTyped = ' ';
+                //             }
+                //         }
+                //     }
+
+                //     if (counterForLenght == wordInChars.length){
+                //         wordsFound.add(word);
+                //     }
+
+                // }
+            //}
+
+            
